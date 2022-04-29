@@ -1,0 +1,35 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/lodash': ^4.14.182
+  '@types/screeps': ^3.3.0
+  fp-ts: ^2.12.1
+  typescript: ^4.6.4
+
+dependencies:
+  fp-ts: 2.12.1
+
+devDependencies:
+  '@types/lodash': 4.14.182
+  '@types/screeps': 3.3.0
+  typescript: 4.6.4
+
+packages:
+
+  /@types/lodash/4.14.182:
+    resolution: {integrity: sha512-/THyiqyQAP9AfARo4pF+aCGcyiQ94tX/Is2I7HofNRqoYLgN1PBoOWu2/zTA5zMxzP5EFutMtWtGAFRKUe961Q==}
+    dev: true
+
+  /@types/screeps/3.3.0:
+    resolution: {integrity: sha512-1Fw/U0V0INPS4rS+SpjRi3zswf5cxgwTdNVN0UksWAkuVidS/4NCCx0LHZqvOByx6kP8J+7O9z3SMzK5prz5cA==}
+    dev: true
+
+  /fp-ts/2.12.1:
+    resolution: {integrity: sha512-oxvgqUYR6O9VkKXrxkJ0NOyU0FrE705MeqgBUMEPWyTu6Pwn768cJbHChw2XOBlgFLKfIHxjr2OOBFpv2mUGZw==}
+    dev: false
+
+  /typescript/4.6.4:
+    resolution: {integrity: sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
