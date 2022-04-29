@@ -1,0 +1,15 @@
+# package directories
+node_modules
+
+# pnpm
+pnpm-debug.log
+.pnpm-debug.log
+/.pnpm-store/
+
+# vscode
+.vscode
+
+.DS_Store
+**/.DS_Store
+
+.direnv
