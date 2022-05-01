@@ -21,6 +21,8 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
-    "fp-ts": "^2.12.1"
+    "fp-ts": "^2.12.1",
+    "screeps": "^4.2.14",
+    "screeps-api": "^1.16.0"
   }
 }
